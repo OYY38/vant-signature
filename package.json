@@ -1,0 +1,39 @@
+{
+  "name": "vant-signature",
+  "version": "0.1.0",
+  "description": "vant signature",
+  "main": "./dist/signature.umd.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "bundle": "vue-cli-service build --target lib --name signature"
+  },
+  "author": {
+    "name": "oyy3838438@hotmail.com",
+    "email": "oyy3838438@hotmail.com"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "vant": "3",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "babel-plugin-import": "^1.13.3",
+    "postcss": "8.3.9",
+    "postcss-pxtorem": "5",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vant",
+    "signature"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:OYY38/vant-signature.git"
+  }
+}
