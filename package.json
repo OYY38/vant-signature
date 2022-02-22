@@ -1,6 +1,6 @@
 {
   "name": "vant-signature",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "vant signature",
   "main": "./dist/signature.umd.js",
   "scripts": {
@@ -35,5 +35,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:OYY38/vant-signature.git"
-  }
+  },
+  "files": ["dist"]
 }
